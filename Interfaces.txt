@@ -1,0 +1,13 @@
+1. Definition of interfaces:
+Solution: An interface is defined as a syntactical contract that all the classes inheriting the interface should follow. 
+	  The interface defines the 'what' part of the syntactical contract and the deriving classes define the 'how' part of the syntactical contract.
+	  Interfaces define properties, methods, and events, which are the members of the interface.
+	  Interfaces contain only the declaration of the members. It is the responsibility of the deriving class to define the members. 
+	  It often helps in providing a standard structure that the deriving classes would follow.
+
+Benefits of Interfaces:
+Solution:
+a. Multiple Interitence can be made possible using Interface in C#.
+b. The interface enables the plug-and-play method.
+c. Complete Abstraction can be achieved by the implementation of Interface.
+d. Along with making our code easy to maintain, concept loose coupling can be achieved.
